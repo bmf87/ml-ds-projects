@@ -1,0 +1,10 @@
+# Ignore VS Code
+.vscode/
+
+# cs585 project data/output/build files 
+cs585/*/data/
+cs585/*/output/
+cs585/*/target/
+
+# Ignore os generated files
+*.DS_Store
